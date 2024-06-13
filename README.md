@@ -1,5 +1,7 @@
 SENDING APPROVALS USING RPA
 
+TOOL: POWER AUTOMATE
+
 
 Our primary objective in this Robotic Process Automation (RPA) project is to automate the approval process for form responses. 
 The workflow is triggered automatically when a new form response is submitted, initiating a sequential approval process involving three approvers.
